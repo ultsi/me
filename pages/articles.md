@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Articles
 category: Reading
 tags: [social media, web, computer science, research]

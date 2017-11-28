@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Skateboarding videos
 category: Skateboarding
 tags: [skateboarding, videos]
