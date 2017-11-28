@@ -7,11 +7,11 @@
         </li>
         {% endif %}
         {% endfor %}
-
+    </ul>
+    <ul>
+        {% assign tags = page.tags | split:&nbsp; %}
         {% for tag in tags %}
-        <li>
-            <a href="#{{ tag | slugify }}"> {{ tag }} </a>
-        </li>
-        {% endfor %}
+            <li>{{ tag }}</li>
+        {% endfor %}    
     </ul>
 </nav>
