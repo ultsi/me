@@ -36,9 +36,9 @@
       <h1>{{page.title}}</h1>
       <h3>{{page.date | date: "%B %-d, %Y"}}</h3>
       <p>Tags:
-      {% assign tags = page.tags | split:,&nbsp; %}
+      {% assign tags = page.tags %}
       {% for tag in tags %}
-          {{ tag }}
+          {{tag}}&nbsp;
       {% endfor %}
       {{ content }}
       </p>
