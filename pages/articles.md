@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Articles
+category: Reading
+tags: [social media, web, computer science, research]
 ---
 
 # Articles
