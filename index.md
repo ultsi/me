@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Muskco
+title: ultsi.me
 ---
 
-## Muskco
+## ultsi.me
 
 Welcome to my website! I'm Joonas Ulmanen, and these are my ramblings about music, skateboarding & code. More coming!
