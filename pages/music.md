@@ -9,8 +9,8 @@ date: 2017-11-28
 I'm trying to collect everything I find interesting in music here. Check it out!
 
 ### Profiles:  
-* ![icon](assets/images/logos/spotify.png)[Spotify](https://open.spotify.com/user/ultsii)
-* ![icon](assets/images/logos/lastfm.png)[Last.fm](https://www.last.fm/user/ulmanen)
+* ![icon](/assets/images/logos/spotify.png)[Spotify](https://open.spotify.com/user/ultsii)
+* ![icon](/assets/images/logos/lastfm.png)[Last.fm](https://www.last.fm/user/ulmanen)
 
 ### Videos:
 * []
