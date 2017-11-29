@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Skateboarding videos
+title: Skateboarding collection
 category: Skateboarding
-tags: [skateboarding, videos]
-date: 2017-11-27
+tags: [skateboarding]
+date: 2017-11-28
 ---
+
+## Articles
+
+I've found Jenkem Magazine's article A Skateboarder's Intro To Yoga to be really helpful before sessions. You can read it here: [A Skateboarder's Intro To Yoga](http://www.jenkemmag.com/home/2016/12/29/a-skateboarders-intro-to-yoga/)
+
+## Videos
 
 This is a list for myself of good skateboarding videos. Maybe it's useful to you too!
 
