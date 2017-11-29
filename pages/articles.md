@@ -3,7 +3,7 @@ layout: post
 title: Articles
 category: Reading
 tags: [social media, web, computer science, research]
-date: 2017-11-17
+date: 2017-11-27
 ---
 
 This is a fairly up to date list of articles I recommend you to read.

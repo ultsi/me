@@ -3,7 +3,7 @@ layout: post
 title: About the internet
 category: General
 tags: [internet]
-date: 2017-11-17
+date: 2017-11-28
 ---
 
 I added these two new articles to my list of articles:  

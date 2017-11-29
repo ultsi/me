@@ -3,7 +3,7 @@ layout: post
 title: Skateboarding videos
 category: Skateboarding
 tags: [skateboarding, videos]
-date: 2017-11-17
+date: 2017-11-27
 ---
 
 This is a list for myself of good skateboarding videos. Maybe it's useful to you too!
