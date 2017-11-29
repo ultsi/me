@@ -9,3 +9,16 @@
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
 }
+
+@media screen and (max-width:800px) {
+    header {
+        float: none;
+        position: relative;
+        width: 100%;
+    }
+    section {
+        float: none;
+        position: relative;
+        width: 100%;
+    }
+}
