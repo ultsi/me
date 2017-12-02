@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Skateboarding collection
 date: 2017-11-28
 ---

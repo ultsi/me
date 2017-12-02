@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Profile
 date: 2017-12-02
 ---

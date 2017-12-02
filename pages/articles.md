@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Articles
 date: 2017-11-27
 ---

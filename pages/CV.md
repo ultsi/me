@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: CV
 date: 2017-12-02
 ---
