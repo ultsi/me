@@ -6,7 +6,7 @@ tags: [code]
 date: 2017-12-02
 ---
 
-Yesterday I released my Telegram bot Bläkkisvuohi into the open and made it open source. Bläkkisvuohi is a bot that helps to monitor your estimated blood alcohol concentration. There are 245 users who have used it on past 2 weeks, so it's starting to be pretty popular (compared to most of the bots). You can find it at [github](https://github.com/ultsi/blakkisvuohi). 
+Yesterday I released my Telegram bot Bläkkisvuohi into the open and made it open source. Bläkkisvuohi is a bot that helps to monitor your estimated blood alcohol concentration. There are 245 users who have used it during the past 2 weeks, so it's starting to be pretty popular (compared to most of the bots). You can find it at [github](https://github.com/ultsi/blakkisvuohi). 
 
 Making the source code public included a lot of cleaning up. I spent 8 effective hours refactoring the code for the public eye and it certainly was a learning process for me. This post describes few of the hiccups I encountered.
 
