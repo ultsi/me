@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Music collection
-category: Music
-tags: [music]
 date: 2017-11-28
 ---
 

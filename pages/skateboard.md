@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Skateboarding collection
-category: Skateboarding
-tags: [skateboarding]
 date: 2017-11-28
 ---
 
