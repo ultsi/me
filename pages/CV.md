@@ -24,7 +24,7 @@ This is a work-in-progress site as it is constantly updating. English version be
 |**Nimi** |Joonas Samuli Ulmanen |
 |**Syntymäaika** |03/1993 |
 |**Sähköpostiosoite** |joonas.ulmanen@gmail.com | 
-|**Github** | [ultsi](https://github.com/ultsi) |
+|**Github** |[ultsi](https://github.com/ultsi) |
 
 ### Profiili
 
@@ -86,7 +86,7 @@ Lisäksi olen ollut ylioppilaskunnassa mukana toteuttamassa lukuisia eri projekt
 
 Harrastuksiini lukeutuu kitaran- sekä pianonsoitto, rullalautailu, laskettelu ja eri proggisten koodailu. Lisäksi olen harrastanut teatteri-improvisaatiota, laulamista kuorossa, sekä jenkkifutista.
 
---
+<hr>
 
 ## Curriculum Vitae
 
@@ -97,7 +97,7 @@ Harrastuksiini lukeutuu kitaran- sekä pianonsoitto, rullalautailu, laskettelu j
 |**Name** |Joonas Samuli Ulmanen |
 |**Date of birth** |03/1993 |
 |**Email** |joonas.ulmanen@gmail.com | 
-|**Github** | [ultsi](https://github.com/ultsi) |
+|**Github** |[ultsi](https://github.com/ultsi) |
 
 ### Profile
 
