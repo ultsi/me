@@ -115,7 +115,7 @@ I'm a young man who wants to challenge himself on every aspect of life. I can wo
 |9/2013 - continuing |Aalto university<br> Computer Science bachelor level student |
 |8/2010 - 6/2013 |Kuopion yhteiskoulun musiikkilukio <br> Ylioppilas |
 
-### Languages
+### Language skills
 
 |Language |Level |
 | --- | --- |
@@ -123,7 +123,7 @@ I'm a young man who wants to challenge himself on every aspect of life. I can wo
 |English |Excellent |
 |Spanish |University basics |
 
-### IT-taidot
+### IT skills
 
 |Language/framework/other |Experience |
 | --- | --- |
