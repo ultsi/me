@@ -11,8 +11,6 @@ date: 2017-12-02
     }
 </style>
 
-# CV
-
 This is a work-in-progress site as it is constantly updating. English version below.
 
 ## Ansioluettelo
