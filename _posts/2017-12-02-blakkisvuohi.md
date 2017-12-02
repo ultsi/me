@@ -16,7 +16,7 @@ One could guess that committing secrets to the repo is ok when it's meant for yo
 
 ### Use a formatter and a linter with Javascript
 
-My code wasn't that horrible, but there were little inconsistencies in every file. The code quality in my eyes increased a lot, when I used a formatter plugin in Sublime Text 3 to format the code to look the same in all files. The code turned out to be more readable after consistent formatting and it took only 5 minutes!
+My code wasn't that horrible, but there were little inconsistencies in every file. The code quality in my eyes increased a lot when I formatted the code with a formatter plugin in Sublime Text 3 to look the same in every file. The code turned out to be a lot more readable and it only took 5 minutes!
 
 ### Abstain from using Heroku as a dev environment
 
