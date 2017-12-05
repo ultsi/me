@@ -6,6 +6,9 @@ date: 2017-11-27
 
 This is a fairly up to date list of articles I recommend you to read.
 
+General:
+* [Surviving seasonal depression with MORE LUX](https://meaningness.com/metablog/sad-light-led-lux)
+
 On social media:  
 * [Get your loved ones off Facebook.](http://www.salimvirani.com/facebook/)
 * [Modern Media Is a DoS Attack on Your Free Will](http://nautil.us/issue/52/the-hive/modern-media-is-a-dos-attack-on-your-free-will)
