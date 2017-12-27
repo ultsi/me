@@ -8,6 +8,10 @@ date: 2017-11-28
 
 I've found Jenkem Magazine's article A Skateboarder's Intro To Yoga to be really helpful before sessions. You can read it here: [A Skateboarder's Intro To Yoga](http://www.jenkemmag.com/home/2016/12/29/a-skateboarders-intro-to-yoga/)
 
+## Me
+
+I've uploaded a few videos to my vimeo account: [https://vimeo.com/user68647378](https://vimeo.com/user68647378)
+
 ## Videos
 
 This is a list for myself of good skateboarding videos. Maybe it's useful to you too!

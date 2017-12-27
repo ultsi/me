@@ -15,4 +15,5 @@ I am Joonas Ulmanen, a computer science student studying in Aalto University. I 
 **Github**: [@ultsi](https://github.com/ultsi)  
 **Last.fm**: ![icon](/assets/images/logos/lastfm.png)[ulmanen](https://www.last.fm/user/ulmanen)  
 **Spotify**: ![icon](/assets/images/logos/spotify.png)[ultsii](https://open.spotify.com/user/ultsii)  
+**Vimeo**: [https://vimeo.com/user68647378](https://vimeo.com/user68647378)  
 **Instagram (not in use since 11/2017)**: [@ultsiii](https://www.instagram.com/ultsiii)
