@@ -8,6 +8,7 @@ date: 2017-12-02
 <style>
     table, th, td, tr, table th, table tr, table td {
         border: none !important; /* Remove table borders */
+        vertical-align: text-top;
     }
 </style>
 
