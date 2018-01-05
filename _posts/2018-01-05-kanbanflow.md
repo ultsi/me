@@ -10,7 +10,7 @@ After years of searching, after using Trello, git, Meistertask, I found the best
 
 ## What is Kanbanflow
 
-![kanbanflow](/assets/images/posts/kanban/flow.jpg)  
+[![kanbanflow](/assets/images/posts/kanban/flow.jpg)](/assets/images/posts/kanban/flow.jpg)
 *My example Kanbanflow board*
 
 If you have ever used Trello or any other task management software, Kanbanflow will be immediately familiar to you. If you haven't, well, you can take a look at the Wikipedia article on [task management](https://en.wikipedia.org/wiki/Task_management). It's primary feature is to help you to manage your tasks more efficiently. Some people like to describe the software as *todo list software*.
@@ -19,7 +19,7 @@ If you have ever used Trello or any other task management software, Kanbanflow w
 
 ### Simplicity
 
-![comparison](/assets/images/posts/kanban/comparison.jpg)
+[![comparison](/assets/images/posts/kanban/comparison.jpg)](/assets/images/posts/kanban/comparison.jpg)
 
 For me, Kanbanflow's main selling point is its simplicity and in that, its use of colors. If you take a look at a Trello board or a Meistertask board, you can't get a clear view of the whole picture easily, or at least I can't. Trello (in the middle) is the worst of these - every task looks practically the same and task coloring is shown by using little lines. Meistertask (on the left) does a little better by coloring the columns, urgent tasks and graying out tasks that are done. None of them still achieve the simplicity of Kanbanflow, where you can get clear picture of the tasks very quickly.
 
