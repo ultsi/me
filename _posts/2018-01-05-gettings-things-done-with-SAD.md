@@ -20,4 +20,4 @@ So more light = less SAD.
 
 ## Outdoor hobbies
 
-Second tip on how to feel good during the dark time of the year: get yourself an outdoor hobby. I myself hated winter before finding the hobby of [snowskating](https://www.youtube.com/watch?v=bOY3IkjZb1Q). After a few years, I have found myself longing for winter. It definitely helps to cope with the season, if you have a season-dependent hobby.
+Second tip on how to feel good during the dark time of the year: *get yourself an outdoor hobby.* I myself hated winter before finding the hobby of [snowskating](https://www.youtube.com/watch?v=bOY3IkjZb1Q). After a few years, I have found myself longing for winter. It definitely helps to cope with the season if you have a season-dependent hobby. I recommend downhill skiing, ice skating, snowskating - anything that depends on snow.
