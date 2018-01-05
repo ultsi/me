@@ -14,7 +14,7 @@ First of all, I think the special lamps designed to help with SAD are a marketin
 
 ![lamp](/assets/images/posts/sad/lamp.jpg)  
 
-So a good friend of mine introduced me to this article in December: [Surviving seasonal depression with MORE LUX](https://meaningness.com/metablog/sad-light-led-lux). I got inspired and turned all my lights on in my room and from since I have been keeping them on until I want to get ready for sleep. The difference was huge. I remember that I used to fall asleep in the middle of studying in November. Now it's been easier to keep awake to keep doing whatever I want and I feel tired more rarely. I didn't even have to buy the headlights designed for SUVs recommended in the article to get rid of SAD. 
+So a good friend of mine introduced me to [this article](https://meaningness.com/metablog/sad-light-led-lux) in December. I got inspired and turned all my lights on in my room and from since I have been keeping them on until I want to get ready for sleep. The difference was huge. I remember that I used to fall asleep in the middle of studying in November. Now it's been easier to keep awake to keep doing whatever I want and I feel tired more rarely. I didn't even have to buy the headlights designed for SUVs recommended in the article to get rid of SAD. 
 
 So more light = less SAD.
 
