@@ -21,8 +21,8 @@ This is a work-in-progress site as it is constantly updating. English version be
 | &nbsp; | &nbsp; |
 | --- | --- |
 |**Nimi** |Joonas Samuli Ulmanen |
-|**Syntymäaika** |03/1993 |
-|**Sähköpostiosoite** |joonas.ulmanen@gmail.com | 
+|**Ikä** |24|
+|**Sähköpostiosoite** |etunimi.sukunimi@gmail.com | 
 |**Github** |[ultsi](https://github.com/ultsi) |
 
 ### Profiili
@@ -94,8 +94,8 @@ Harrastuksiini lukeutuu kitaran- sekä pianonsoitto, rullalautailu, laskettelu j
 | &nbsp; | &nbsp; |
 | --- | --- |
 |**Name** |Joonas Samuli Ulmanen |
-|**Date of birth** |03/1993 |
-|**Email** |joonas.ulmanen@gmail.com | 
+|**Age** |24 |
+|**Email** |firstname.lastname@gmail.com | 
 |**Github** |[ultsi](https://github.com/ultsi) |
 
 ### Profile

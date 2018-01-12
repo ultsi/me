@@ -12,7 +12,7 @@ description: This is a simple website about my stuff - music, skateboarding & co
 author: Joonas Ulmanen
 
 # Your email if you want it to be linked on the contact page
-author_email: joonas.ulmanen@gmail.com
+author_email: firstname.lastname@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
