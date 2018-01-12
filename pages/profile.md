@@ -10,7 +10,7 @@ I am Joonas Ulmanen, a computer science student studying in Aalto University. I 
 
 ### Some basic contact info
 
-**Email**: joonas.ulmanen@gmail.com  
+**Email**: firstname.lastname@gmail.com  
 **Telegram**: [@ultsi](https://t.me/ultsi)  
 **Github**: [@ultsi](https://github.com/ultsi)  
 **Last.fm**: ![icon](/assets/images/logos/lastfm.png)[ulmanen](https://www.last.fm/user/ulmanen)  
