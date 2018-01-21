@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skateboarding collection
-date: 2018-01-12
+date: 2018-01-21
 ---
 
 ## Articles
@@ -30,3 +30,5 @@ This is a list for myself of good skateboarding videos. Maybe it's useful to you
 
 *   [Samu Karvonen - Where we're from](https://www.youtube.com/watch?v=zXMC4FhnOLI). 
     Favorite Finnish skateboarder. Classic Finnish scenery, spots and unbelievable ender. Having been at the actual spot I can't believe it.
+
+*   [Sebo Walker - Krooked LSD part](https://www.youtube.com/watch?v=yCBVdrPFqXI)
