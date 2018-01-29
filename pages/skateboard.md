@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skateboarding collection
-date: 2018-01-21
+date: 2018-01-29
 ---
 
 ## Articles
