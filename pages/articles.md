@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Articles
-date: 2017-11-27
+date: 2019-07-26
 ---
 
-This is a fairly up to date list of articles I recommend you to read.
+This is seldomly-updated list of articles I have enjoyed reading.
 
 General:
 * [Surviving seasonal depression with MORE LUX](https://meaningness.com/metablog/sad-light-led-lux)

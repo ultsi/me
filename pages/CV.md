@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-date: 2018-01-12
+date: 2019-07-26
 ---
 
 
@@ -12,80 +12,7 @@ date: 2018-01-12
     }
 </style>
 
-This is a work-in-progress site as it is constantly updating. English version below.
-
-## Ansioluettelo
-
-### Henkilötiedot
-
-| &nbsp; | &nbsp; |
-| --- | --- |
-|**Nimi** |Joonas Samuli Ulmanen |
-|**Ikä** |24|
-|**Sähköpostiosoite** |etunimi.sukunimi@gmail.com | 
-|**Github** |[ultsi](https://github.com/ultsi) |
-
-### Profiili
-
-Olen nuori mies, joka haluaa haastaa itseään jokaisella elämänalalla. Osaan toimia todella hyvin itsenäisesti, mutta tykkään erityisesti ryhmässä tekemisestä. Otan uudet haasteet vastaan innolla.
-
-### Työkokemus
-
-|Milloin |Mitä |
-| --- | --- |
-|5/2016 - jatkuu |Futurice, Software developer. |
-|5/2015 - 8/2015 |Futurice, summer trainee. |
-
-### Koulutus
-
-|Milloin |Mitä |
-| --- | --- |
-|9/2013 - jatkuu |Aalto-yliopisto<br> Tietotekniikan alan kandidaatti |
-|8/2010 - 6/2013 |Kuopion yhteiskoulun musiikkilukio <br> Ylioppilas |
-
-### Kielitaito
-
-|Kieli |Taso |
-| --- | --- |
-|Suomi |Äidinkieli, erinomainen |
-|Englanti |Erinomainen |
-|Espanja |Yliopistotason alkeet |
-
-### IT-taidot
-
-|Kieli/framework/muu |Kokemus |
-| --- | --- |
-|Scala |14kk työtehtävissä |
-|Node.js |kontribuoinut muutamiin työprojekteihin <br> 8kk harrasteprojekteissa |
-|HTML, CSS |10kk työtehtävissä <br> 10kk harrasteprojekteissa | 
-|Python |2kk työtehtävissä, 2kk harrasteprojekteissa <br> Django on tuttua. | 
-|Docker |3kk työprojektissa, jossa automatisoin sbt-buildeja Jenkinsillä ja Dockerilla <br> 4 kuukautta yhdistysten palvelinten ylläpitämisessä ja omissa projekteissa |
-|PostgreSQL |3kk työtehtävissä <br> 14kk harrasteprojekteissa, oma go-to tietokanta |
-|MysqlDB/MariaDB |10kk työtehtävissä <br> 2kk omissa projekteissa |
-|Heroku |14kk työtehtävissä, erittäin hyvä kokemus <br> 12kk harrasteprojekteissa |
-|AWS - S3, CloudFront |14kk työtehtävissä |
-|Apache |4kk yhdistysten palvelinten ylläpitoa |
-|Nginx |4kk yhdistysten palvelinten ylläpitoa |
-|Linux |16kk palvelin- ja työpöytäkokemusta |
-
-Lisää näistä Githubissa: [ultsi](https://github.com/ultsi)
-
-### Vastuutehtävät
-
-#### Ylioppilaskunta
-
-|Tehtävä |Kuvaus |
-| --- | --- |
-|2017-2018 Ota-karjut ry puheenjohtaja |Vastuutehtävässä opin yhdistyksen hallinnolliset asiat perikotaisin |  
-|2015-2016 Tietokillan fuksivastaava |Vastasin tietokillan uusien opiskelijoiden fuksikasvatuksesta vuoden ajan. Vastuutehtävässa opin paljon tapahtumien järjestämisestä, ajankäytön suunnittelusta, esiintymisestä sekä yhdistyksen hallituksen pyörittämisestä. |
-
-Lisäksi olen ollut ylioppilaskunnassa mukana toteuttamassa lukuisia eri projekteja, joista kerron mielelläni enemmän esimerkiksi sähköpostilla.
-
-### Harrastukset
-
-Harrastuksiini lukeutuu kitaran- sekä pianonsoitto, rullalautailu, laskettelu ja eri proggisten koodailu. Lisäksi olen harrastanut teatteri-improvisaatiota, laulamista kuorossa, sekä jenkkifutista.
-
-<hr>
+This is a work-in-progress site as it is constantly updating.
 
 ## Curriculum Vitae
 
@@ -93,10 +20,10 @@ Harrastuksiini lukeutuu kitaran- sekä pianonsoitto, rullalautailu, laskettelu j
 
 | &nbsp; | &nbsp; |
 | --- | --- |
-|**Name** |Joonas Samuli Ulmanen |
+|**Name** |Joonas Ulmanen |
 |**Age** |24 |
 |**Email** |firstname.lastname@gmail.com | 
-|**Github** |[ultsi](https://github.com/ultsi) |
+|**GitLab** |[ultsi](https://gitlab.com/ultsi) |
 
 ### Profile
 
@@ -106,14 +33,15 @@ I'm a young man who wants to challenge himself on every aspect of life. I can wo
 
 |When |Where |
 | --- | --- |
-|5/2016 - continuing |Futurice, Software developer. |
+|7/2017 - continuing |Wolt - LiveOps engineer. |
+|5/2016 - 6/2019 |Futurice, Software developer. |
 |5/2015 - 8/2015 |Futurice, Summer trainee. |
 
 ### Education
 
 |When |Where |
 | --- | --- |
-|9/2013 - continuing |Aalto university<br> Computer Science bachelor level student |
+|9/2013 - 6/2019 |Aalto university<br> Bachelor of Science (Computer Science) |
 |8/2010 - 6/2013 |Kuopion yhteiskoulun musiikkilukio <br> Ylioppilas |
 
 ### Language skills
@@ -129,19 +57,19 @@ I'm a young man who wants to challenge himself on every aspect of life. I can wo
 |Language/framework/other |Experience |
 | --- | --- |
 |Scala |14 months in work |
-|Node.js |contributed to some work projects <br> 8 months in hobby projects |
-|HTML, CSS |10 months in work <br> 10 months in hobby projects | 
-|Python, Django |2 months in work <br> 2 months in hobby projects | 
-|Docker |3 months in work <br> 4 months administering and developing various associations' servers and in hobby projects |
-|PostgreSQL |3 months in work <br> 14 months in hobby projects, my go-to database |
-|MysqlDB/MariaDB |10 months in work<br> 2 months in hobby projects |
+|Node.js | 9 months in work projects <br> 8 months in hobby projects |
+|HTML, CSS |18 months in work <br> 10 months in hobby projects | 
+|Python, Django |3 months in work <br> 2 months in hobby projects | 
+|Docker |12 months in work <br> 16 months administering and developing various associations' servers and in hobby projects |
+|PostgreSQL |12 months in work <br> 20 months in hobby projects, my go-to database |
+|MysqlDB/MariaDB |12 months in work<br> 2 months in hobby projects |
 |Heroku |14 months in work <br> 12kk in hobby projects |
-|AWS - S3, CloudFront |14 months in work |
+|AWS - S3, CloudFront |20 months in work |
 |Apache |4 months in administering various associations' servers |
-|Nginx |4 months in administering various associations' servers |
-|Linux |16 months of server and desktop side experience |
+|Nginx |16 months in administering various associations' servers |
+|Linux |30 months of server and desktop side experience |
 
-Some of my projects are in Github, check it out: [ultsi](https://github.com/ultsi)
+Some of my projects are in Gitlab, check it out: [ultsi](https://gitlab.com/ultsi)
 
 ### Responsibilities
 
