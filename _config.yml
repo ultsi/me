@@ -1,4 +1,4 @@
-title : ultsi.me - music, skateboarding & code
+title : ultsi.fi - music, skateboarding & code
 tagline: music, skateboarding & code.
 author :
     name : Joonas Ulmanen
@@ -25,7 +25,7 @@ category_dir: /
 baseurl: 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: https://ultsi.me
+url: https://ultsi.fi
 
 #### Under the Hood Stuff #####
 
