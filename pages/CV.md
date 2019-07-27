@@ -22,7 +22,8 @@ This is a work-in-progress site as it is constantly updating.
 | --- | --- |
 |**Name** |Joonas Ulmanen |
 |**Age** |26 |
-|**Email** |firstname.lastname@gmail.com | 
+|**Email** |firstname.lastname@ultsi.fi |  
+|**GitHub** |[ultsi](https://github.com/ultsi) |
 |**GitLab** |[ultsi](https://gitlab.com/ultsi) |
 
 ### Profile

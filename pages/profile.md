@@ -10,7 +10,7 @@ I am Joonas Ulmanen, a Bachelor of Science graduate in computer science from Aal
 
 ### Some basic contact info
 
-**Email**: firstname.lastname@gmail.com  
+**Email**: firstname.lastname@ultsi.fi  
 **Telegram**: [@ultsi](https://t.me/ultsi)  
 **Github**: [@ultsi](https://github.com/ultsi)  
 **GitLab**: [@ultsi](https://gitlab.com/ultsi)  

@@ -2,7 +2,7 @@ title : ultsi.fi - music, skateboarding & code
 tagline: music, skateboarding & code.
 author :
     name : Joonas Ulmanen
-    email : firstname.lastname@gmail.com
+    email : firstname.lastname@ultsi.fi
     github : ultsi
 
 # Short description (goes below the title; it will also be used in the RSS feed)
@@ -12,7 +12,7 @@ description: This is a simple website about my stuff - music, skateboarding & co
 author: Joonas Ulmanen
 
 # Your email if you want it to be linked on the contact page
-author_email: firstname.lastname@gmail.com
+author_email: firstname.lastname@ultsi.fi
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
