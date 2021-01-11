@@ -1,12 +1,12 @@
-title : ultsi.fi - music, skateboarding & code
-tagline: music, skateboarding & code.
+title : ultsi.fi
+tagline: ultsi.fi
 author :
     name : Joonas Ulmanen
     email : firstname.lastname@ultsi.fi
     github : ultsi
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: This is a simple website about my stuff - music, skateboarding & code.
+description: This is a simple website about me
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Joonas Ulmanen

@@ -5,6 +5,7 @@ title: ultsi.fi
 
 ## ultsi.fi
 
-Welcome to my website! This page was made to mainly attract visitors who google my name and to serve as a collection for myself of good articles, music and skateboarding.
+Welcome to my website! This page was made to mainly attract visitors who google my name. 
 
-I'm Joonas Ulmanen, more commonly known as ultsi. You can learn more about me on the [profile](/pages/profile/) page.
+I'm Joonas Ulmanen, also known by my nickname ultsi. I've been a software developer for 4 years and
+worked for multiple companies already. For any enquiries you can reach me at firstname . lastname @ ultsi.fi.
